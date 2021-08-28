@@ -36,10 +36,10 @@ Price ==> integer
 We store the data in local storage called shopping cart, store the object's shopping cart, the object contains the name and price, it will take from the restaurant page the name and price of the meals, then we go to a function stored in local storage
 ## Wireframe
 ### Home page
-![Wireframe](Wierframe-for-home-page.PNG)
+![Wireframe](Wierframe-for-home-page-now.PNG)
 The home page has a title with a logo that takes you to the home page, and the shopping cart takes you to the cart page to show you the bill and social media list. And we have a slideshow display all resturant.
 ### Restorant page
-![Wireframe](Wierframe-for-restorant-page.PNG)
+![Wireframe](Wierframe-for-restorant-page-new.PNG)
 Restorant page contain menu to orders
 ## Activity Diagram
 ![Activity-Diagram](Activity-Diagram.png)
