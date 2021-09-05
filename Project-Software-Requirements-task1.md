@@ -5,7 +5,7 @@ What the consumer wants to see in the webpage:
 for every kitchen.
 2. The consumer can visit the restaurants webpage for reservation.
 3. Consumers can see every menu on the restaurant page
-4. The customer can see all the orders in the shopping cart page and the consumer can cancel the order or the order.
+4. The customer can see all the orders in the shopping cart page and the consumer can make the order.
 5. The consumer needs to know how many meals he is ordering.
 6. The consumer needs to see all the bill details
 
