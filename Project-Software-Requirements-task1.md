@@ -1,7 +1,7 @@
 # Task 1.1
 The consumer informed us that in Jordan there are not many web pages for booking meals online, so he decided to create an online web page that brings restaurants in one place to facilitate the meal ordering system.
 What the consumer wants to see in the webpage:
-1. Consumer need home page contain all restaurants in slide show
+1. Consumer need home page contain all restaurants in categories 
 for every kitchen.
 2. The consumer can visit the restaurants webpage for reservation.
 3. Consumers can see every menu on the restaurant page
